@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup_here">SignUp? Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+    <string name="signuphere">Create a new Account? SignUp</string>
+</resources>
